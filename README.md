@@ -5,6 +5,12 @@ For all cat lovers by Lea B and Herve B
 
 Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.).
 (---> Current Status)(https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
+Drop your sound files here according to instructions on link above:
+
+<iframe src="https://onedrive.live.com/embed?cid=EB02B52BD1CE79FD&resid=EB02B52BD1CE79FD%212644&authkey=AOroewqAhmmou_0" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+
+
+
   * this requires:
     - a collection methodology to collect high quality samples (could be an instruction or small mobile app)
     - a storage repository of raw sample and file naming convention
