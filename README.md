@@ -7,7 +7,7 @@ web site link: https://frogboss74.github.io/RealCatTranslator/
 (---> Current Status)(https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
 
 ## Introduction
-- Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.).
+- Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
 - Phase 2: Data manipulation and preparation for deep learning
 - Phase 3: Machine learning on initial sample (this could branch out depending on machine learning algorith used)
 - Phase 4: App development to apply the learned model to real situation and use language recognition to speak cat language
@@ -59,5 +59,5 @@ It is currently proposed to use Supervised Training Convulational [Neural Networ
 The target accuracy is 70%.
 
 ## Phase 4
-Simple app will be developed using (MIT App Inventor)(http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
+Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
