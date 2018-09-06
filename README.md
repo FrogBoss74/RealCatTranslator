@@ -2,9 +2,9 @@
 Project in several phases to ultimately built an app that translate from human to cats and cats to human using deep learning algorithm
 For all cat lovers by Lea B and Herve B
 
-web site link: https://frogboss74.github.io/RealCatTranslator/
+web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
-(---> Current Status)(https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
+[--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
 
 ## Introduction
 - Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
@@ -40,7 +40,7 @@ where,
   - Source should be Web or Recorded
 
 ### Classification of sounds
-Hear the cats and what they say at: https://www.mnn.com/family/pets/stories/cat-sounds-and-what-they-mean
+Hear the cats and what they say at: [Link here](https://www.mnn.com/family/pets/stories/cat-sounds-and-what-they-mean)
 
 <iframe width="540" height="360" src="https://www.youtube.com/embed/nX1YzS_CYIw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
