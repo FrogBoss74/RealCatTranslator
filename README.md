@@ -45,8 +45,8 @@ where,
  | Chatting | I want to hunt/play |
  |GyaGyaGya | I want a cat-mate | 
  | KittenMiyouMiyou| Mama! Mama! | 
- >- Miyoou, 
- >- Purring
+ | Miyoou | It hurts/hungry | 
+ | Purring | I am comfortable |
   - Sex is either M for male of F for female (if known)
   - Age is age of cat (approximately if known, eg 3m or 2Y, etc.)
   - Name is name of cat (if known)
@@ -77,6 +77,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIxNzM4ODcsLTE3NDc3OTUwOTEsMT
+eyJoaXN0b3J5IjpbLTE2NzQwMzA5NDUsLTE3NDc3OTUwOTEsMT
 Y3NjcwNDQ2OF19
 -->
