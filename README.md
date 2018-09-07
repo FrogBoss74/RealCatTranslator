@@ -65,3 +65,6 @@ The target accuracy is 70%.
 ## Phase 4
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY3NjcwNDQ2OF19
+-->
