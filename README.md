@@ -34,7 +34,8 @@ Naming of raw cat sounds files: Cat sounds should be named as follows:
    "SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source"
 where,
   - SoundClass is one of the following: 
-  - |    
+ | SoundClass | Meaning |
+ |:------------------|:----------------| 
  >- Growling, 
  >- MomoMooh, 
  >- Hissing, 
@@ -75,6 +76,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjQyNTM0NiwtMTc0Nzc5NTA5MSwxNj
+eyJoaXN0b3J5IjpbMTIzNzYwNDA0MywtMTc0Nzc5NTA5MSwxNj
 c2NzA0NDY4XX0=
 -->
