@@ -29,7 +29,7 @@ A1[Personnal <span>Recording</span>] -->|record with <br>smartphone</b>| B(<cent
 A2[Youtube recording] -->|Download mp3 <br>with mp3fy</br>| B
 B --> C(Upload file to the dropbox)
 C -->D1[<center>Sound Processing <br>and preparation</br></center>]
-D1 -->D2[<center>Verification and <br>allocation of SoundClasses</br>]
+D1 -->D2[<center>Verification and <br>allocation of SoundClasses</br></center>]
 style A1 fill:#ef0,stroke:#333,stroke-width:2px;
 style A2 fill:#ef0,stroke:#333,stroke-width:2px;
 style B fill:#ee6,stroke:#333,stroke-width:2px;
@@ -95,7 +95,7 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NjgyNzA2LC0yMzkxMjI5MSwtMTIwND
-Q3MTM0NSw3ODQyNzg0MDQsMTUyMDA2NDc1NSwtMTYyMTIzMzMs
-LTE3NDc3OTUwOTEsMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbLTEyMDk0NTIwNjQsLTIzOTEyMjkxLC0xMj
+A0NDcxMzQ1LDc4NDI3ODQwNCwxNTIwMDY0NzU1LC0xNjIxMjMz
+MywtMTc0Nzc5NTA5MSwxNjc2NzA0NDY4XX0=
 -->
