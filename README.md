@@ -6,8 +6,7 @@ web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
 [--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
 
-Help me to collect cat sounds either by recording your cat and droping the file in the drop box below 
-or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
+>Help me to collect cat sounds either by recording your cat and droping the file in the drop box below or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
 
 ## Introduction
 - Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
@@ -66,5 +65,5 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbLTE1OTc0MzQ3NTgsMTY3NjcwNDQ2OF19
 -->
