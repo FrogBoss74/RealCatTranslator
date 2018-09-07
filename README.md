@@ -25,8 +25,8 @@ This task is probably the most challenging task.
 graph TD
 A1[Personnal Recording] -->|record with smartphone| B(Name the file as shown below)
 A2[Youtube recording] -->|Download mp3 with > mp3fy| B
-B --> C{Name the file}
-C -->|One| D[Laptop]
+B --> C{Upload file to the dropbox}
+C -->D[Soun]
 C -->|Two| E[iPhone]
 C -->|Three| F[fa:fa-car Car]
 ```
@@ -87,6 +87,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Nzc3MTExNywtMTYyMTIzMzMsLTE3ND
+eyJoaXN0b3J5IjpbMTIxOTIzNzc3MSwtMTYyMTIzMzMsLTE3ND
 c3OTUwOTEsMTY3NjcwNDQ2OF19
 -->
