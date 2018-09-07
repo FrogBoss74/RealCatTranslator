@@ -21,6 +21,14 @@ Drop your sound files here according to instructions on link above:
 ## Phase 1 Collecting cat sounds
 
 This task is probably the most challenging task. 
+```mermaid
+graph TD
+A[Christmas] -->|Get money| B(Go shopping)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+"""
 
 ### Collecting raw sounds
 This requires either volunteers to record their own cats, which could be fun, though time consuming or screening online resources such as Youtube and then post processing the audio files.
@@ -78,6 +86,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEyMzMzLC0xNzQ3Nzk1MDkxLDE2Nz
-Y3MDQ0NjhdfQ==
+eyJoaXN0b3J5IjpbLTEyNTAwNzAzNTQsLTE2MjEyMzMzLC0xNz
+Q3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
 -->
