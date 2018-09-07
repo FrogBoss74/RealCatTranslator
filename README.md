@@ -25,7 +25,7 @@ This task is probably the most challenging task.
 ```mermaid
 
 graph TD
-A1[Personnal <span>Recording</span>] -->|<center>record with <center><br>smartphone</b></center>| B(<center>Name the file <br>as shown below</br></center>)
+A1[Personnal <span>Recording</span>] -->|<center>record with <br>smartphone</b></center>| B(<center>Name the file <br>as shown below</br></center>)
 A2[Youtube recording] -->|<center>Download mp3 <br>with mp3fy</br></center>| B
 B --> C(Upload file to the dropbox)
 C -->D1[<center>Sound Processing <br>and preparation</br></center>]
@@ -95,7 +95,7 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjY0NTk1OSwxNjEwNzk3OTg4LC0yMz
+eyJoaXN0b3J5IjpbLTU0ODQ0NjM2MiwxNjEwNzk3OTg4LC0yMz
 kxMjI5MSwtMTIwNDQ3MTM0NSw3ODQyNzg0MDQsMTUyMDA2NDc1
 NSwtMTYyMTIzMzMsLTE3NDc3OTUwOTEsMTY3NjcwNDQ2OF19
 -->
