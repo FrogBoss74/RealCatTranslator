@@ -21,7 +21,7 @@ Drop your sound files here according to instructions on link above:
 ## Phase 1 Collecting cat sounds
 
 This task is probably the most challenging task. 
-<img>mermaid-diagram-20180907203915.svg</img>
+![Flow Chart](mermaid-diagram-20180907203915.svg)
 
 ### Collecting raw sounds
 This requires either volunteers to record their own cats, which could be fun, though time consuming or screening online resources such as Youtube and then post processing the audio files.
