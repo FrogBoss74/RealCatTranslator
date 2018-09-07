@@ -35,15 +35,14 @@ Naming of raw cat sounds files: Cat sounds should be named as follows:
 where,
   - SoundClass is one of the following: 
 
-|SoundClass       | Meaning             
+|Sound Class       | Meaning             
 |:------------------|:--------------------:|
 |Growling | I am warning you |
 |MomoMooh | I am angry |
 |Hissing | Leave me alone |
 |Nyaaan | Want to fight? |
- 
- >- MeowMeow, 
- >- Chatting, 
+| MeowMeow | I am happy | 
+ | Chatting | I want to
  >- GyaGyaGya, 
  >- MotherCallPiling, 
  >- Miyoou, 
@@ -78,6 +77,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQxMDE1NDksLTE3NDc3OTUwOTEsMT
-Y3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbMTAyNDI5NzQ0LC0xNzQ3Nzk1MDkxLDE2Nz
+Y3MDQ0NjhdfQ==
 -->
