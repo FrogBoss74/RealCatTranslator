@@ -16,7 +16,7 @@ web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
 Drop your sound files here according to instructions on link above:
 
-<a><iframe src="https://onedrive.live.com/embed?cid=EB02B52BD1CE79FD&resid=EB02B52BD1CE79FD%212644&authkey=AOroewqAhmmou_0" width="165" height="128" frameborder="0" scrolling="no"></iframe></a>
+<a><iframe src="https://onedrive.live.com/embed?cid=EB02B52BD1CE79FD&resid=EB02B52BD1CE79FD%212644&authkey=AOroewqAhmmou_0" width="165" height="128" frameborder="0" scrolling="no"></iframe></a
 
 ## Phase 1 Collecting cat sounds
 
@@ -37,8 +37,9 @@ style B fill:#ed6,stroke:#333,stroke-width:2px;
 style C fill:#ed6,stroke:#333,stroke-width:2px;
 style D1 fill:#ed6,stroke:#333,stroke-width:2px;
 style D2 fill:#ed6,stroke:#333,stroke-width:2px;
-style inset fill:#ed6,stroke:#333,stroke-width:2px;
-``
+
+```
+
 
 ### Collecting raw sounds
 This requires either volunteers to record their own cats, which could be fun, though time consuming or screening online resources such as Youtube and then post processing the audio files.
@@ -96,7 +97,7 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTM3OTc1MSw3ODQyNzg0MDQsMTUyMD
+eyJoaXN0b3J5IjpbMjEwMDQxMjc2NCw3ODQyNzg0MDQsMTUyMD
 A2NDc1NSwtMTYyMTIzMzMsLTE3NDc3OTUwOTEsMTY3NjcwNDQ2
 OF19
 -->
