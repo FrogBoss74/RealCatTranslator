@@ -48,7 +48,7 @@ Tools to collect cats sound : [mp3fy here](https://mp3fy.com/) or any recording 
 Naming of raw cat sounds files: Cat sounds should be named as follows:
    "**SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source**"
 where,
-  - SoundClass is one of the following: 
+  - **SoundClass** is one of the following: 
 
  |Sound Class       | Meaning             
  |:------------------|:--------------------:|
@@ -93,8 +93,8 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzY2MDE4NiwtNTQ4NDQ2MzYyLDE2MT
-A3OTc5ODgsLTIzOTEyMjkxLC0xMjA0NDcxMzQ1LDc4NDI3ODQw
-NCwxNTIwMDY0NzU1LC0xNjIxMjMzMywtMTc0Nzc5NTA5MSwxNj
-c2NzA0NDY4XX0=
+eyJoaXN0b3J5IjpbMTI0NzM2NzQ2MiwtNjI3NjYwMTg2LC01ND
+g0NDYzNjIsMTYxMDc5Nzk4OCwtMjM5MTIyOTEsLTEyMDQ0NzEz
+NDUsNzg0Mjc4NDA0LDE1MjAwNjQ3NTUsLTE2MjEyMzMzLC0xNz
+Q3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
 -->
