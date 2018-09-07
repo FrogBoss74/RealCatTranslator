@@ -31,7 +31,7 @@ Submission of cat sounds to: [CatSounds Drop Box](https://1drv.ms/f/s!Av15ztErtQ
 Tools to collect cats sound : [mp3fy here](https://mp3fy.com/) or any recording app on mobile
 
 Naming of raw cat sounds files: Cat sounds should be named as follows:
-   "SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source"
+   "**SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source**"
 where,
   - SoundClass is one of the following: 
 
@@ -48,11 +48,11 @@ where,
  | Miyoou | It hurts/hungry | 
  | Purring | I am comfortable |
  
-  - *Sex is either M for male of F for female (if known)*
-  - *Age is age of cat (approximately if known, eg 3m or 2Y, etc.) (if known)*
-  - *Name is name of cat (if known)*
-  - FirstNameOfWhoIsSubmitting is name of who is sending the file
-  - Country is country where the cat is. (this will be used to find out if cats in different countries understand each others)
+  - * **Sex** is either M for male of F for female (if known)*
+  - * **Age** is age of cat (approximately if known, eg 3m or 2Y, etc.) (if known)*
+  - * **Name** is name of cat (if known)*
+  - **FirstNameOfWhoIsSubmitting** is name of who is sending the file
+  - * **Country** is country where the cat is. (this will be used to find out if cats in different countries understand each others) (if known)
   - Source should be Web or Recorded
 
 ### Classification of sounds
@@ -78,6 +78,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMDgyNjE4LC0xNzQ3Nzk1MDkxLDE2Nz
+eyJoaXN0b3J5IjpbNDE4OTcyNjI1LC0xNzQ3Nzk1MDkxLDE2Nz
 Y3MDQ0NjhdfQ==
 -->
