@@ -23,11 +23,11 @@ Drop your sound files here according to instructions on link above:
 This task is probably the most challenging task. 
 ```mermaid
 graph TD
-A1[Personnal Recording] -->|record with smartphone| B(Name the file as shown below)
+A1[fa:fa-cat Personnal Recording] -->|fa:fa-car record with smartphone| B(Name the file as shown below)
 A2[Youtube recording] -->|Download mp3 with > mp3fy| B
-B --> C{Upload file to the dropbox}
+B --> C(Upload file to the dropbox)
 C -->D1[Sound Processing and preparation]
-C -->D2[Verification of SoundClassesation]
+C -->D2[Verification of SoundClasses]
 ```
 
 ### Collecting raw sounds
@@ -86,6 +86,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjQyNjkwNSwtMTYyMTIzMzMsLTE3ND
-c3OTUwOTEsMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbLTIwMDA4NzU4ODMsLTE2MjEyMzMzLC0xNz
+Q3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
 -->
