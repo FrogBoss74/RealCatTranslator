@@ -24,7 +24,7 @@ This task is probably the most challenging task.
 ```mermaid
 graph TD
 A1[Personnal Recording] -->|Get money| B(Go shopping)
-A2[] -->|Get money| B(Go shopping)
+A2[Youtube recording] -->|Get money| B(Go shopping)
 B --> C{Let me think}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
@@ -87,6 +87,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjI1NTY2NiwtMTYyMTIzMzMsLTE3ND
+eyJoaXN0b3J5IjpbMTY3MTM5MDY1NiwtMTYyMTIzMzMsLTE3ND
 c3OTUwOTEsMTY3NjcwNDQ2OF19
 -->
