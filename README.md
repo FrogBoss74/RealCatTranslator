@@ -22,26 +22,15 @@ Drop your sound files here according to instructions on link above:
 
 This task is probably the most challenging task. 
 
-    css
-    <style>
-    .cssClass > rect{
-        fill:#FF0000;
-        stroke:#FFFF00;
-        stroke-width:4px;
-    }
-</style>
-
 ```mermaid
-graph TD;
-A1[Personnal <span>Recording</span>] -->|record with smartphone|; B(Name the file as shown below);
-A2[Youtube recording] -->|Download mp3 with > mp3fy| B;
-B --> C(Upload file to the dropbox);
-C -->D1[Sound Processing and preparation];
-C -->D2[Verification of SoundClasses];
-class A1 cssClass;
-```
 
-
+graph TD
+A1[Personnal <span>Recording</span>] -->|record with smartphone| B(Name the file as shown below)
+A2[Youtube recording] -->|Download mp3 with > mp3fy| B
+B --> C(Upload file to the dropbox)
+C -->D1[Sound Processing and preparation]
+D1 -->D2[Verification and allocation of SoundClasses]
+class A1 cssClass
 ```
 ```
 
@@ -101,6 +90,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0NTUxMzMsMTUyMDA2NDc1NSwtMT
-YyMTIzMzMsLTE3NDc3OTUwOTEsMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbNzg0Mjc4NDA0LDE1MjAwNjQ3NTUsLTE2Mj
+EyMzMzLC0xNzQ3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
 -->
