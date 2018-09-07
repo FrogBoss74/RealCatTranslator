@@ -1,10 +1,13 @@
 # RealCatTranslator
 Project in several phases to ultimately built an app that translate from human to cats and cats to human using deep learning algorithm
-For all cat lovers by Lea B and Herve B
+For all cat lovers by Lea B, Teo B and Herve B
 
 web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
 [--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
+
+Help me to collect cat sounds either by recording your cat and droping the file in the drop box below 
+or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
 
 ## Introduction
 - Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
@@ -26,12 +29,13 @@ In any case wave files need to be collected.
 
 Submission of cat sounds to: [CatSounds Drop Box](https://1drv.ms/f/s!Av15ztErtQLrlFSNvhIzIsAi3KJy)
  
-Tools to collect cats sound : [HOLD]
+Tools to collect cats sound : [mp3fy here](https://mp3fy.com/) or any recording app on mobile
 
-Naming of cat sounds .wav files: Cat sounds should be named as follows:
+Naming of raw cat sounds files: Cat sounds should be named as follows:
    "SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source"
 where,
-  - SoundClass is one of the following ()
+  - SoundClass is one of the following: 
+  (Growling, MomoMooh, Hissing, Nyaaan, MeowMeow, Chatting, GyaGyaGya, MotherCallPiling, Miyoou, Purring)
   - Sex is either M for male of F for female (if known)
   - Age is age of cat (approximately if known, eg 3m or 2Y, etc.)
   - Name is name of cat (if known)
