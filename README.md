@@ -30,6 +30,7 @@ A2[Youtube recording] -->|Download mp3 with > mp3fy| B
 B --> C(Upload file to the dropbox)
 C -->D1[Sound Processing and preparation]
 C -->D2[Verification of SoundClasses]
+class A1 cssClass
 ```
 <style>
     .cssClass > rect{
@@ -38,6 +39,7 @@ C -->D2[Verification of SoundClasses]
         stroke-width:4px;
     }
 </style>
+
 ```
 ```
 
@@ -97,6 +99,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTQzMzczMywxNTIwMDY0NzU1LC0xNj
+eyJoaXN0b3J5IjpbMTQ0ODczMDUzNiwxNTIwMDY0NzU1LC0xNj
 IxMjMzMywtMTc0Nzc5NTA5MSwxNjc2NzA0NDY4XX0=
 -->
