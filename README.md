@@ -23,7 +23,6 @@ Drop your sound files here according to instructions on link above:
 This task is probably the most challenging task. 
 
 ```mermaid
-
 graph TD
 A1[Personnal <span>Recording</span>] -->|<center>record with <br>smartphone</b></center>| B(<center>Name the file <br>as shown below</br></center>)
 A2[Youtube recording] -->|<center>Download mp3 <br>with mp3fy</br></center>| B
@@ -37,7 +36,6 @@ style C fill:#eb6,stroke:#333,stroke-width:2px;
 style D1 fill:#ea6,stroke:#333,stroke-width:2px;
 style D2 fill:#e96,stroke:#333,stroke-width:2px;
 ```
-
 
 ### Collecting raw sounds
 This requires either volunteers to record their own cats, which could be fun, though time consuming or screening online resources such as Youtube and then post processing the audio files.
@@ -95,7 +93,8 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODQ0NjM2MiwxNjEwNzk3OTg4LC0yMz
-kxMjI5MSwtMTIwNDQ3MTM0NSw3ODQyNzg0MDQsMTUyMDA2NDc1
-NSwtMTYyMTIzMzMsLTE3NDc3OTUwOTEsMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbLTYyNzY2MDE4NiwtNTQ4NDQ2MzYyLDE2MT
+A3OTc5ODgsLTIzOTEyMjkxLC0xMjA0NDcxMzQ1LDc4NDI3ODQw
+NCwxNTIwMDY0NzU1LC0xNjIxMjMzMywtMTc0Nzc5NTA5MSwxNj
+c2NzA0NDY4XX0=
 -->
