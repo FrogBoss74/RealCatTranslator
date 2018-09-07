@@ -22,20 +22,17 @@ Drop your sound files here according to instructions on link above:
 
 This task is probably the most challenging task. 
 
-```mermaid
-graph TD
-A1[Personnal <span>Recording</span>] -->|<center>record with <br>smartphone</b></center>| B(<center>Name the file <br>as shown below</br></center>)
-A2[Youtube recording] -->|<center>Download mp3 <br>with mp3fy</br></center>| B
-B --> C(Upload file to the dropbox)
-C -->D1[<center>Sound Processing <br>and preparation</br></center>]
-D1 -->D2[<center>Verification and <br>allocation of SoundClasses</br></center>]
-style A1 fill:#ef0,stroke:#333,stroke-width:2px;
-style A2 fill:#ef0,stroke:#333,stroke-width:2px;
-style B fill:#ee6,stroke:#333,stroke-width:2px;
-style C fill:#eb6,stroke:#333,stroke-width:2px;
-style D1 fill:#ea6,stroke:#333,stroke-width:2px;
-style D2 fill:#e96,stroke:#333,stroke-width:2px;
-```
+> ```mermaid graph TD A1[Personnal <span>Recording</span>]
+> -->|<center>record with <br>smartphone</b></center>| B(<center>Name the file <br>as shown below</br></center>) A2[Youtube recording]
+> -->|<center>Download mp3 <br>with mp3fy</br></center>| B B --> C(Upload file to the dropbox) C -->D1[<center>Sound Processing <br>and
+> preparation</br></center>] D1 -->D2[<center>Verification and
+> <br>allocation of SoundClasses</br></center>] style A1
+> fill:#ef0,stroke:#333,stroke-width:2px; style A2
+> fill:#ef0,stroke:#333,stroke-width:2px; style B
+> fill:#ee6,stroke:#333,stroke-width:2px; style C
+> fill:#eb6,stroke:#333,stroke-width:2px; style D1
+> fill:#ea6,stroke:#333,stroke-width:2px; style D2
+> fill:#e96,stroke:#333,stroke-width:2px; ```
 
 ### Collecting raw sounds
 This requires either volunteers to record their own cats, which could be fun, though time consuming or screening online resources such as Youtube and then post processing the audio files.
@@ -93,8 +90,8 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzM2NzQ2MiwtNjI3NjYwMTg2LC01ND
-g0NDYzNjIsMTYxMDc5Nzk4OCwtMjM5MTIyOTEsLTEyMDQ0NzEz
-NDUsNzg0Mjc4NDA0LDE1MjAwNjQ3NTUsLTE2MjEyMzMzLC0xNz
-Q3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE2MTMxNDU1NTQsMTI0NzM2NzQ2MiwtNj
+I3NjYwMTg2LC01NDg0NDYzNjIsMTYxMDc5Nzk4OCwtMjM5MTIy
+OTEsLTEyMDQ0NzEzNDUsNzg0Mjc4NDA0LDE1MjAwNjQ3NTUsLT
+E2MjEyMzMzLC0xNzQ3Nzk1MDkxLDE2NzY3MDQ0NjhdfQ==
 -->
