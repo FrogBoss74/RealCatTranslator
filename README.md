@@ -36,7 +36,7 @@ where,
   - SoundClass is one of the following: 
  | SoundClass | Meaning |
  |:------------------|:--------------------| 
- 
+ | Growling | Warning |
  >- Growling, 
  >- MomoMooh, 
  >- Hissing, 
@@ -77,6 +77,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDIyMzA0NSwtMTc0Nzc5NTA5MSwxNj
+eyJoaXN0b3J5IjpbMTgxNTMxODMwMCwtMTc0Nzc5NTA5MSwxNj
 c2NzA0NDY4XX0=
 -->
