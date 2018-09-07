@@ -23,8 +23,8 @@ Drop your sound files here according to instructions on link above:
 This task is probably the most challenging task. 
 ```mermaid
 graph TD
-A1[Personnal Recording] -->|Get money| B(Go shopping)
-A2[Youtube recording] -->|Get money| B(Go shopping)
+A1[Personnal Recording] -->|record with smartphone| B(Go shopping)
+A2[Youtube recording] -->|Download mp3 with > mp3fy| B(Go shopping)
 B --> C{Let me think}
 C -->|One| D[Laptop]
 C -->|Two| E[iPhone]
@@ -87,6 +87,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTM5MDY1NiwtMTYyMTIzMzMsLTE3ND
-c3OTUwOTEsMTY3NjcwNDQ2OF19
+eyJoaXN0b3J5IjpbMTg3MjMzNTMxLC0xNjIxMjMzMywtMTc0Nz
+c5NTA5MSwxNjc2NzA0NDY4XX0=
 -->
