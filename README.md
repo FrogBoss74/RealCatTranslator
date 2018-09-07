@@ -37,10 +37,11 @@ where,
 
 |SoundClass       | Meaning             
 |:------------------|:--------------------:|
-|Growling | Warning |
-|MomoMooh | Angry |
+|Growling | I am warning you |
+|MomoMooh | I am angry |
 |Hissing | Leave me alone |
-|Nyaaan | Want to fight? | 
+|Nyaaan | Want to fight? |
+ 
  >- MeowMeow, 
  >- Chatting, 
  >- GyaGyaGya, 
@@ -77,6 +78,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTIxNTEwNjAsLTE3NDc3OTUwOTEsMT
+eyJoaXN0b3J5IjpbLTE5MTQxMDE1NDksLTE3NDc3OTUwOTEsMT
 Y3NjcwNDQ2OF19
 -->
