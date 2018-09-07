@@ -42,9 +42,9 @@ where,
  |Hissing | Leave me alone |
  |Nyaaan | Want to fight? |
  | MeowMeow | I am happy | 
- | Chatting | I want to hunt/play 
+ | Chatting | I want to hunt/play |
  |GyaGyaGya | I want a cat-mate | 
- >- MotherCallPiling, 
+ | KittenMiyouMiyou| Mama! Mama! | 
  >- Miyoou, 
  >- Purring
   - Sex is either M for male of F for female (if known)
@@ -77,6 +77,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NjMxNTE1LC0xNzQ3Nzk1MDkxLDE2Nz
-Y3MDQ0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE3OTIxNzM4ODcsLTE3NDc3OTUwOTEsMT
+Y3NjcwNDQ2OF19
 -->
