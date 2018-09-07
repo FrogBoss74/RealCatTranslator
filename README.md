@@ -48,9 +48,9 @@ where,
  | Miyoou | It hurts/hungry | 
  | Purring | I am comfortable |
  
-  - Sex is either M for male of F for female (if known)
-  - Age is age of cat (approximately if known, eg 3m or 2Y, etc.)
-  - Name is name of cat (if known)
+  - *Sex is either M for male of F for female (if known)*
+  - *Age is age of cat (approximately if known, eg 3m or 2Y, etc.) (if known)*
+  - *Name is name of cat (if known)*
   - FirstNameOfWhoIsSubmitting is name of who is sending the file
   - Country is country where the cat is. (this will be used to find out if cats in different countries understand each others)
   - Source should be Web or Recorded
@@ -78,6 +78,6 @@ The target accuracy is 70%.
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTU1NTc5MSwtMTc0Nzc5NTA5MSwxNj
-c2NzA0NDY4XX0=
+eyJoaXN0b3J5IjpbMzgxMDgyNjE4LC0xNzQ3Nzk1MDkxLDE2Nz
+Y3MDQ0NjhdfQ==
 -->
