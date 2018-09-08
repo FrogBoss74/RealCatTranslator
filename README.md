@@ -2,9 +2,11 @@
 Project in several phases to ultimately built an app that translate from human to cats and cats to human using deep learning algorithm
 For all cat lovers by Lea B, Teo B and Herve B
 
+
 web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
 [--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
+
 
 >Help me to collect cat sounds either by recording your cat and droping the file in the drop box below or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
 
@@ -23,6 +25,8 @@ Drop your sound files here according to instructions on link above:
 ## Phase 1 Collecting cat sounds
 
 This task is probably the most challenging task. 
+
+![FlowChart1](flowchart1.PNG)
 
 
 ### Collecting raw sounds
