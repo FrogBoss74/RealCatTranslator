@@ -8,6 +8,8 @@ web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
 >Help me to collect cat sounds either by recording your cat and droping the file in the drop box below or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
 
+![CuteCat](https://www.wtfclub.net/wp-content/uploads/2017/12/unnamed.jpg)
+
 ## Introduction
 - Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
 - Phase 2: Data manipulation and preparation for deep learning
