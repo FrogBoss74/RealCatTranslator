@@ -70,7 +70,10 @@ Hear the cats and what they say at: [Link here](https://www.mnn.com/family/pets/
 After a bit of research, it is proposed to follow the work done by JH Lee [Domestic Cat Sound Classification Using Transfer Learning](http://www.ijfis.org/journal/view.html?uid=827&&vmd=Full).
 The following site shows examples of sound within each classis used as a guide for classification of site
 The research proposes to classify cats sounds in 10 classes as follows:
+
+
 ![Cat classes](talkingcat.gif)
+
 
 ## Phase 2
 Data filtering [HOLD: not decided yet]
