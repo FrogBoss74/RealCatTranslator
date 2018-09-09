@@ -32,7 +32,7 @@ Drop your sound files here according to instructions on link above:
 
 This task is probably the most challenging task. 
 
-![FlowChart1](https://github.com/FrogBoss74/RealCatTranslator/flowchart1.PNG)
+![FlowChart1](https://github.com/FrogBoss74/RealCatTranslator/blob/master/flowchart1.PNG)
 
 
 ### Collecting raw sounds
@@ -84,7 +84,7 @@ The following site shows examples of sound within each classis used as a guide f
 The research proposes to classify cats sounds in 10 classes as follows:
 
 
-![Cat classes](https://github.com/FrogBoss74/RealCatTranslator/talkingcat.gif)
+![Cat classes](https://github.com/FrogBoss74/RealCatTranslator/blob/master/talkingcat.gif)
 
 
 ## Phase 2
