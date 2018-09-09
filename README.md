@@ -5,12 +5,17 @@ For all cat lovers by Lea B, Teo B and Herve B
 
 web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 
+
+Development wiki link: [here](https://github.com/FrogBoss74/RealCatTranslator/wiki)
+
+
 [--> Current Status](https://github.com/FrogBoss74/RealCatTranslator/wiki/Collecting-cat-sounds)
 
 
 >Help me to collect cat sounds either by recording your cat and droping the file in the drop box below or capturing sounds from Youtube videos using online [mp3fy here](https://mp3fy.com/) or any recording app on mobile (see how to name the file below)
 
 ![CuteCat](https://www.wtfclub.net/wp-content/uploads/2017/12/unnamed.jpg)
+
 
 ## Introduction
 - Phase 1: Collection of cat sound samples in a specific format with annotation of the cat behaviour following a prescribed method for each predesignated designed behavours (eg hungry, don't bother me, etc.)
@@ -21,6 +26,7 @@ web site link: [here](https://frogboss74.github.io/RealCatTranslator/)
 Drop your sound files here according to instructions on link above:
 
 <iframe src="https://onedrive.live.com/embed?cid=EB02B52BD1CE79FD&resid=EB02B52BD1CE79FD%212644&authkey=AOroewqAhmmou_0" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+
 
 ## Phase 1 Collecting cat sounds
 
@@ -37,8 +43,11 @@ Submission of cat sounds to: [CatSounds Drop Box](https://1drv.ms/f/s!Av15ztErtQ
  
 Tools to collect cats sound : [mp3fy here](https://mp3fy.com/) or any recording app on mobile
 
+
 Naming of raw cat sounds files: Cat sounds should be named as follows:
    "**SoundClass_Sex_Age_Name_FistNameOfWhoIsSubmitting_Country_Source**"
+
+
 where,
   - **SoundClass** is one of the following: 
 
@@ -62,6 +71,7 @@ where,
   - ***Country** is country where the cat is. (this will be used to find out if cats in different countries understand each others) (if known)
   - **Source** should be *Web* or *Recorded*
 
+
 ### Classification of sounds
 Hear the cats and what they say at: [Link here](https://www.mnn.com/family/pets/stories/cat-sounds-and-what-they-mean)
 
@@ -80,9 +90,11 @@ Data filtering [HOLD: not decided yet]
 
 It is curretly proposed to use Librosa library in python for [MFCCS](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum) feature extractions
 
+
 ## Phase 3
 It is currently proposed to use Supervised Training Convulational [Neural Networks](https://en.wikipedia.org/wiki/Neural_network) [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network) with [Tensorflow and Keras](https://www.tensorflow.org/guide/keras) given its accuracy and portability. The model will be developed in Python hand the model will be saved for further used in other languages.
 The target accuracy is 70%.
+
 
 ## Phase 4
 Simple app will be developed using [MIT App Inventor](http://appinventor.mit.edu/explore/) to record cat and translate to human and vice versa.
